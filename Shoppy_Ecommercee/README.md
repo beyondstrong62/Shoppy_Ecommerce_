@@ -111,7 +111,7 @@ Project Structure
 └─ tailwind.config.js
 ```
 #### Author 
-[GITHUB](https://github.com/MD-MAFUJUL-HASAN)
+[GITHUB](https://github.com/beyondstrong62)
 
 
 
